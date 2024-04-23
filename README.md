@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------------------
-EXERCICES HTML/CSS - GiHUB
+EXERCICES HTML/CSS - GiHUB 
 ------------------------------------------------------------------------------------------------------
 Quelles sont les notions qui vont être abordées au cours de cet atelier ?
 Cet atelier a pour objectif de vous apprendre à mettre en ligne un CV écrit en HTML et CSS. 
